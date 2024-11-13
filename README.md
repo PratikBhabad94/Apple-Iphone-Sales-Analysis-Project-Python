@@ -4,9 +4,9 @@ The apple iphone sales analysis projectproject aims to analyze and visualize the
 
 # Python liberaries used
 
-•	NumPy and Pandas:- For data manipulation, cleaning, and numerical analysis.
+•	NumPy and Pandas :- For data manipulation, cleaning, and numerical analysis.
 
-•	Plotly:- For interactive and dynamic visualizations, including line charts and geographical maps.
+•	Plotly :- For interactive and dynamic visualizations, including line charts and geographical maps.
 
 
 # Process

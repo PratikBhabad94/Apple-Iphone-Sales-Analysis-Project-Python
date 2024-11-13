@@ -26,18 +26,18 @@ The apple iphone sales analysis projectproject aims to analyze and visualize the
 
 •	Rating and Reviews Analysis 
   
-  Identified the top 10 highest-rated iPhones and visualized their ratings and reviews using bar charts, Insights from this analysis can guide marketing 
-  strategies and product improvements.
+   Identified the top 10 highest-rated iPhones and visualized their ratings and reviews using bar charts, Insights from this analysis can guide marketing 
+   strategies and product improvements.
   
 •	Discount Percentage Investigation  
   
-  I explored the relationship between discounts and sales performance. By calculating discount percentages for different iPhone versions, I determined 
-  how pricing impacts consumer behavior. These findings can inform pricing strategies and promotional campaigns.
+   I explored the relationship between discounts and sales performance. By calculating discount percentages for different iPhone versions, I determined 
+   how pricing impacts consumer behavior. These findings can inform pricing strategies and promotional campaigns.
   
 •	Top-Selling Models Identification 
   
-  Using sales volume data, I ranked iPhone models based on their popularity. I considered factors such as seasonality, product launches, and market 
-  trends. The results highlight the iPhones driving revenue and market share. 
+   Using sales volume data, I ranked iPhone models based on their popularity. I considered factors such as seasonality, product launches, and market 
+   trends. The results highlight the iPhones driving revenue and market share. 
 
 
 

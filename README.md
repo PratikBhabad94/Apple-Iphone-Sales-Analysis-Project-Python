@@ -46,7 +46,9 @@ There is a linear relationship between the discount percentage on iPhones on Fli
 
 1.APPLE iPhone 8 Plus (Gold, 64 GB) was the most appreciated iPhone in India 
 
-2.iPhones with lower sale prices are sold more in India 3.iPhones with high discounts are sold more in India
+2.iPhones with lower sale prices are sold more in India 
+
+3.iPhones with high discounts are sold more in India
 
 
 
